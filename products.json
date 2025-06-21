@@ -1,0 +1,47 @@
+[
+    {
+        "id": "millionaire-secrets-ebook",
+        "title": "Tired of the Grind?",
+        "subtitle": "Discover Millionaire Secrets Today!",
+        "description": "This powerful ebook reveals the exact strategies used by self-made millionaires to achieve financial freedom. Learn how to build lasting wealth, generate passive income, master smart investments, and transform your money mindset. Stop guessing and start strategizing for true financial freedom!",
+        "features": [
+            "How to build lasting wealth",
+            "Strategies for passive income",
+            "Mastering smart investments",
+            "Transforming your money mindset"
+        ],
+        "buttonText": "Download Your Copy Now!",
+        "affiliateLink": "https://your-affiliate-link-for-ebook.com",
+        "heroImage": "https://source.unsplash.com/random/1600x900/?dollar,money,currency,gold"
+    },
+    {
+        "id": "investing-mastery-course",
+        "title": "Unleash Your Investing Power!",
+        "subtitle": "Master the Stock Market & Beyond",
+        "description": "Unlock the secrets of successful investing with this comprehensive course. Whether you're a beginner or looking to refine your skills, this program covers everything from fundamental analysis to advanced portfolio management. Build a robust portfolio and watch your wealth grow!",
+        "features": [
+            "Fundamental & Technical Analysis",
+            "Building a Diversified Portfolio",
+            "Understanding Market Trends",
+            "Risk Management Strategies"
+        ],
+        "buttonText": "Enroll in the Course!",
+        "affiliateLink": "https://your-affiliate-link-for-investing-course.com",
+        "heroImage": "https://source.unsplash.com/random/1600x900/?stockmarket,finance,charts,investing"
+    },
+    {
+        "id": "passive-income-blueprint",
+        "title": "Escape the 9-to-5!",
+        "subtitle": "Your Blueprint to Passive Income Streams",
+        "description": "Imagine earning money while you sleep! This blueprint guides you through various proven passive income models, from affiliate marketing and digital products to real estate and dividends. Start building your financial freedom today without trading time for money.",
+        "features": [
+            "Identify profitable niches",
+            "Create digital products",
+            "Leverage affiliate marketing",
+            "Automate income generation"
+        ],
+        "buttonText": "Get the Blueprint!",
+        "affiliateLink": "https://your-affiliate-link-for-passive-income.com",
+        "heroImage": "https://source.unsplash.com/random/1600x900/?earnmoney,laptop,beach,financialfreedom"
+    }
+]
